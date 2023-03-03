@@ -13,9 +13,10 @@ _``_
 _`ARCHICAD`_ _`RHINOCEROS_3D`_ _`GRASSHOPPER`_  _**``**_ 
 
 Черчение с налаженной связью _GRASSHOPPER LIVE Connection_ между _`ARCHICAD`_ и _`RHINOCEROS_3D`_ для создания индивидуальных объектов предметов интерьера и встроенной мебели. Это полезно для внесения изменений в конфигурацию предметов в реальном времени - габариты, кол-во полок, изменение высоты и другие параметры. Последовательность проектирования с _GRASSHOPPER LIVE Connection_ выглядит так:
- - Форма помещения передается из _`ARCHICAD`_ в _`GRASSHOPPER`_;
- - В _`RHINOCEROS_3D`_ в нужном месте моделируется объект;
- - С помощью набора нод _Design_ объект экспортируется обратно из _`GRASSHOPPER`_ в _`ARCHICAD`_. 
+ 1. Форма помещения передается из _`ARCHICAD`_ в _`GRASSHOPPER`_;
+ 2. В _`RHINOCEROS_3D`_ в нужном месте моделируется объект;
+ 3. С помощью набора нод _Design_ объект экспортируется обратно из _`GRASSHOPPER`_ в _`ARCHICAD`_. 
+ 
  
 
 <a id="310" href="https://ewwgene.github.io/ArchiCAD_Projects/Carousel/#310"><img src="https://ewwgene.github.io/ArchiCAD_Projects/310.gif" height="66"></a> <a id="311" href="https://ewwgene.github.io/ArchiCAD_Projects/Carousel/#311"><img src="https://ewwgene.github.io/ArchiCAD_Projects/311.jpg" height="66"></a> <a id="313" href="https://ewwgene.github.io/ArchiCAD_Projects/Carousel/#313"><img src="https://ewwgene.github.io/ArchiCAD_Projects/313.jpg" height="66"></a> <a id="317" href="https://ewwgene.github.io/ArchiCAD_Projects/Carousel/#317"><img src="https://ewwgene.github.io/ArchiCAD_Projects/317.jpg" height="66"></a> <a id="319" href="https://ewwgene.github.io/ArchiCAD_Projects/Carousel/#319"><img src="https://ewwgene.github.io/ArchiCAD_Projects/319.jpg" height="66"></a> <a id="323" href="https://ewwgene.github.io/ArchiCAD_Projects/Carousel/#323"><img src="https://ewwgene.github.io/ArchiCAD_Projects/323.jpg" height="66"></a> <a id="325" href="https://ewwgene.github.io/ArchiCAD_Projects/Carousel/#325"><img src="https://ewwgene.github.io/ArchiCAD_Projects/325.jpg" height="66"></a> 
